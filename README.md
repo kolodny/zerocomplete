@@ -25,3 +25,7 @@ Name          |   type           |     default       |   description
 `search`      | function         | (nothing)         | Callback that gets fired before a dropdown is displayed, return false to cancel| &nbsp;
 
 Note that all standard typeahead options (except `source`) get passed in with the typeahead invocation so all typeahead options should also work
+
+---
+
+Released under the MIT license
