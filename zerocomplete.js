@@ -1,3 +1,8 @@
+// zerocomplete
+
+// Copyright 2013 Moshe Kolodny
+// Released under the MIT license
+
 (function($) {
 	var pluginName = 'zerocomplete',
 		events = ['select', 'open', 'search'];
